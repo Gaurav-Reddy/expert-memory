@@ -2,3 +2,5 @@
 2. use csvimport to get the data into the database use mongodb compass if possible
 3. load reviews into movie_reviews collection name and use movie_two as the collection to load movie data
 4. You will need to install pymongo,pandas 
+
+[3]	https://www.kaggle.com/tmdb/tmdb-movie-metadata the dataset is taken download from here
